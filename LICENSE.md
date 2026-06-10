@@ -1,4 +1,4 @@
-# 
+# Advanced RAGFlow plugins. Featuring explainable-AI and open-source — optimized for maximum performance and efficiency.
 
 
 
